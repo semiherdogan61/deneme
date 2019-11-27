@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    tools:context=".Quiz">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="710dp"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/question"
+            android:layout_width="match_parent"
+            android:layout_height="156dp"
+            android:layout_marginTop="5pt"
+            android:ems="10"
+            android:importantForAutofill="no"
+            android:inputType="textMultiLine">
+
+            <requestFocus />
+        </EditText>
+
+        <Button
+            android:id="@+id/choice1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="left|center_vertical"
+            android:tag="1" />
+
+        <Button
+            android:id="@+id/choice2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="left|center_vertical"
+            android:tag="2" />
+
+        <Button
+            android:id="@+id/choice3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="left|center_vertical"
+            android:tag="3" />
+
+        <Button
+            android:id="@+id/choice4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="left|center_vertical"
+            android:tag="4" />
+
+        <Button
+            android:id="@+id/sinaviBaslat"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="RESTART" />
+
+        <Button
+            android:id="@+id/EXIT"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="EXIT" />
+
+        <TextView
+            android:id="@+id/score"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Score :" />
+    </LinearLayout>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

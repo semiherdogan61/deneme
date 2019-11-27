@@ -1,0 +1,11 @@
+T;Marty McFly, hangi filmin karakteridir?;Gerçeğe Çağrı;Geleceğe Dönüş;Leon;X-Men;B
+T;Yalnızca bilimkurgu türünde filmler izleyen biri, hangi filmi izlemiş olabilir?;Azınlık Raporu;Forrest Gump;Schindler'in Listesi;Akıl Oyunları;A
+T;"Hasta la vista, baby" sözüyle hatırlanan James Cameron'ın yönettiği film serisinin adı nedir?;Star Wars;Terminatör;Alien;Jaws;B
+T;Oscar ödüllerinin provası olarak anılan ödül töreninin adı nedir?;Altın Küre;Altın Ayı;Altın Palmiye;Altın Lale;A
+T;"Inception", "Batman Başlıyor", "Kara Şövalye Yükseliyor" filmlerinin yönetmeni kimdir?;Steven Spielberg;Martin Scorsese;George Lucas;Christopher Nolan;D
+T;"Meksikalı", "Halka" ve "Karayip Korsanları" filmlerinin yönetmeni kimdir?;Night Shyamalan;Alan Parker;Gore Verbinski;James Cameron;C
+T;Türk filmlerinde çiftleri her zaman koruyan, iyi yürekli ve kalender olarak gösterilen kişiler genellikle kimlerdir?;Balıkçılar;Bankacılar;Tüccarlar;Fabrikatörler;A
+T;"Ivan'ın Çocukluğu", "Solaris", "Ayna" filmleriyle tanınan yönetmen kimdir?;Ingmar Bergman;Andrey Tarkovski;Francis Ford Coppola;Federico Fellini;B
+T;"Mavi Boncuk" filminde Emel Sayın hangisinin içinde kaçırılır?;Halı;Sandık;Küfe;Kasa;A
+T;Jack Nicholson'un başrolünde oynadığı "Guguk Kuşu" ve Mozart'ın hayatını konu alan "Amadeus" filmlerinin yönetmeni kimdir?;Alfred Hitchcock;Milos Forman;Emir Kusturica;Wim Wenders;B
+
